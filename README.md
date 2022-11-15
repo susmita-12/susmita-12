@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushmita Poudel</h1>
 <h3 align="center">A Cybersecurity Enthusiastic</h3>
 
-<img src="https://cdn.pixabay.com/photo/2022/05/14/03/34/hacker-7194843__480.png", width="700">
+<img src="https://cdn.pixabay.com/photo/2022/05/14/03/34/hacker-7194843__480.png" width="700" alt="coding">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susmita-12" alt="susmita-12" /></a> </p>
 
