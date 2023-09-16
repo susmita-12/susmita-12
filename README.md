@@ -13,11 +13,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@susmitapoudel622](https://medium.com/@susmitapoudel622)
 
-- 💬 Ask me about How is life going ? :) 
+- 💬 Ask me about How is life going :) 
 
 - 📫 How to reach me **susmitapoudel622@gmail.com**
 
-- ⚡ Fun fact I am a hacker :)
+- ⚡ Fun fact I am a hacker 😗
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
