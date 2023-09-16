@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susmita-12" alt="susmita-12" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Application Security**
 
-- 🌱 I’m currently learning **HTML, CSS and Java Script**
+- 🌱 I’m currently learning **Pentesting**
 
 - 👨‍💻 All of my projects are available at [https://susmita-12.github.io/Website/](https://susmita-12.github.io/Website/)
 
 - 📝 I regularly write articles on [https://medium.com/@susmitapoudel622](https://medium.com/@susmitapoudel622)
 
-- 💬 Ask me about **HTML, CSS, Java Script and Python**
+- 💬 Ask me about **How is life going ? :) *
 
 - 📫 How to reach me **susmitapoudel622@gmail.com**
 
-- ⚡ Fun fact **I think I can eat threats**
+- ⚡ Fun fact **I hate ctf **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
