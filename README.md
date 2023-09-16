@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@susmitapoudel622](https://medium.com/@susmitapoudel622)
 
-- 💬 Ask me about How is life going :) 
+- 💬 Ask me about How is life going 🙃
 
 - 📫 How to reach me **susmitapoudel622@gmail.com**
 
