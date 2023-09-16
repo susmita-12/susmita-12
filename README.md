@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **susmitapoudel622@gmail.com**
 
-- ⚡ Fun fact **I hate ctf **
+- ⚡ Fun fact **  I am a hacker *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
