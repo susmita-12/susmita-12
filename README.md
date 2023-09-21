@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Pentesting**
 
-- 👨‍💻 All of my projects are available at [https://susmita-12.github.io/Website/](https://susmita-12.github.io/Website/)
+- 👨‍💻 All of my projects are available at [https://susmita-12.github.io/Website/](https://susmita-12)
 
 - 📝 I regularly write articles on [https://medium.com/@susmitapoudel622](https://medium.com/@susmitapoudel622)
 
