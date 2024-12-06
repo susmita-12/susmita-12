@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Pentesting**
 
-- 👨‍💻 All of my projects are available at [https://susmita-12.github.io/Website/](https://susmita-12)
+- 👨‍💻 All of my projects are available at my github. :)
 
 - 📝 I regularly write articles on [https://medium.com/@susmitapoudel622](https://medium.com/@susmitapoudel622)
 
 - 💬 Ask me about How is life going 🙃
 
-- 📫 How to reach me **susmitapoudel622@gmail.com**
+- 📫 How to reach me **find email of mine**
 
 - ⚡ Fun fact I am a hacker 😗
 
