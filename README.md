@@ -15,7 +15,7 @@
 
 - 💬 Ask me about How is life going 🙃
 
-- 📫 How to reach me **find email of mine**
+- 📫 How to reach me ** i really don't know **
 
 - ⚡ Fun fact I am a hacker 😗
 
